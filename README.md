@@ -1,25 +1,18 @@
-<!-- Zero width character is used to put extra blank lines before and after code -->
+### Hi there 👋
 
-<h3>
-    
-```python
-​from __future__ import annotations
-import json
-from dataclasses import asdict, dataclass
+I'm Vishnu. I'm a Software Programmer, with interests in mobile app development, data analytics and data science. I love the challenge of coding and I am passionate about it.
 
+- 🔭 I’m currently working at [Tamimah Telecom](https://www.ttct.net/) 
+- 💬 Ask me about Flutter, Data Science and Machine Learning
+- 📫 How to reach me
 
-@dataclass
-class grtvishnu:
-    languages: tuple[str, ...] = ("Dart","R","Python", "JS", "Go")
-    databases: tuple[str, ...] = ("SQLite", "PostgreSQL", "DynamoDB")
-    ongoing:   tuple[str, ...] = ("Flutter", "Flask", "Django")
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:optra7@gmail.com) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishnuvu/) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/vishnumon021)
 
-    def jsonify(self):
-        return json.dumps(asdict(self), indent=4)
+![](im/code.gif)
+
+<!--
+**grtvishnu/grtvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 
-grtvishnu = grtvishnu()
-print(grtvishnu.jsonify())
-​
-```
-</h3>
