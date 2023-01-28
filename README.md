@@ -2,7 +2,7 @@
 
 I'm Vishnu. I'm a Software Programmer, with interests in mobile app development, data analytics and data science. I love the challenge of coding and I am passionate about it.
 
-- 🔭 I’m currently working on flutter projects
+- 🔭 I’m currently working on flutter and android projects
 - 🌱  I’m currently learning Backend development
 - 👯 I’m looking forward to collaborate on open source projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
