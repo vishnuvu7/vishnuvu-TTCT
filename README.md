@@ -9,6 +9,10 @@ I'm Vishnu. I'm a Software Programmer, with interests in mobile app development,
 - 💬 Ask me about Flutter/Dart, I am happy to help
 - 📫 How to reach me
 
+<p align="center">
+  <img src="https://github.com/Faiz-Rhm/Faiz-Rhm/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:optra7@gmail.com) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishnuvu/) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/vishnumon021)
 
 ![](im/code.gif)
